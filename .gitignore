@@ -71,7 +71,7 @@ desktop.ini
 
 # Jupyter / matplotlib figures
 *.png
-*.pdf
+# *.pdf
 
 # Project-specific
 # (add folders like data/ or secrets/ if you don't want them in Git)
